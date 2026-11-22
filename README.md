@@ -1,6 +1,6 @@
 # Australian Wine Sales Analysis
 
-**Live App:** https://5760bfc4294442ba842982c68cd7be97.app.posit.cloud/p/756c0715/ 
+**Live App:** https://01a2051f-912a-bee4-2950-1f0cada50904.share.connect.posit.cloud
 
 ## Overview
 
